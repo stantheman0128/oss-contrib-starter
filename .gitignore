@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+node_modules/
+.venv/
+dist/
+build/
+claims/*__*.md
+!claims/README.md
